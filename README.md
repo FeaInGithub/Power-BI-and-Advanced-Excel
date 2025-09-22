@@ -13,13 +13,15 @@ This repository showcases my projects and practice work in **Power BI** and **Ad
 - 🔍 **Key Insights**:  
   - Identified key trends and patterns in the dataset  
   - Highlighted performance metrics through dynamic dashboards  
-  - Used DAX measures for calculated insights  
+  - Used **DAX measures** for calculated insights  
 
 ---
 
 ## 🔹 Advanced Excel  
 
 - 📊 **Pivot Tables** – Summarized and explored large datasets with dynamic grouping and aggregations  
+- 🧩 **Formulas & Lookups** – Applied **VLOOKUP, XLOOKUP, INDEX-MATCH, IF statements**, and other advanced formulas for data retrieval and automation  
+- ⚙️ **Process Automation** – Streamlined repetitive tasks with formulas and structured workflows  
 - 📈 **Visualizations** – Built interactive charts and dashboards to highlight business KPIs and patterns  
 
 ---
@@ -29,7 +31,7 @@ This repository showcases my projects and practice work in **Power BI** and **Ad
 - Data Cleaning & Transformation  
 - Dashboard Design & Storytelling  
 - Power BI (DAX, Data Modeling, Interactive Reports)  
-- Advanced Excel (Pivot Tables, Charts, Formulas)  
+- Advanced Excel (Pivot Tables, Charts, VLOOKUP/XLOOKUP, INDEX-MATCH, IF/IFS)  
 
 ---
 
@@ -38,6 +40,3 @@ This repository showcases my projects and practice work in **Power BI** and **Ad
 1. Download the Power BI PDF report or open the interactive dashboard via Google Drive.  
 2. Explore Excel files included in this repo.  
 
----
-
-✨ *This portfolio is a work in progress, with more datasets and dashboards to be added over time.*  
