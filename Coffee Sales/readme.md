@@ -5,8 +5,6 @@ This repository contains my **Coffee Sales Project**, where I showcased both my 
 ## 🔑 Key Features  
 - **Excel (Advanced)**  
   - Pivot Tables for sales analysis  
-  - Formulas (XLOOKUP, IF, conditional aggregations, etc.)  
-  - Data cleaning and preparation  
   - Interactive charts and dashboards  
 
 - **Power BI**   
