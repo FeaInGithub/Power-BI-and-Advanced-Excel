@@ -1,4 +1,4 @@
-# ☕ Coffee Sales Dashboard – Power BI
+# ☕ Coffee Sales Dashboard
 
 This repository contains **Coffee Sales data** analyzed and visualized using **Power BI**. The goal was to transform raw data into clear, interactive dashboards that highlight key business insights.  
 
