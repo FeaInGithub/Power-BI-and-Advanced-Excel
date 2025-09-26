@@ -8,11 +8,8 @@ It is structured to showcase both technical skills and business-oriented insight
 ## 🔧 Skills Highlighted
 
 ### Excel
-- Advanced formulas (VLOOKUP, XLOOKUP, INDEX/MATCH, IF, nested logic)
 - Pivot Tables & Pivot Charts
-- Automation through formulas and formatting
 
 ### Power BI
 - Interactive dashboards & storytelling
 - DAX measures and calculated columns
-- Business insights
