@@ -5,12 +5,11 @@ This repository contains my **Coffee Sales Project**, where I showcased both my 
 ## 🔑 Key Features  
 - **Excel (Advanced)**  
   - Pivot Tables for sales analysis  
-  - Interactive charts and dashboards  
+  - Interactive charts
 
 - **Power BI**   
 - Interactive dashboards & storytelling
 - DAX measures and calculated columns
-- Business insights
 
 ## 🛠 Tools Used  
 - **Microsoft Excel (Advanced)**  
