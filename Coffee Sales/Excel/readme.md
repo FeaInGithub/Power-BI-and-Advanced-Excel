@@ -5,13 +5,13 @@ This repository contains **Coffee Sales data**, where I applied **Advanced Excel
 ---
 
 ## 📊 Insights
-Here are some key findings from the analysis (replace with your actual insights):
+Here are some key findings from the analysis:
 
-- **Top-Selling Products**: e.g., *Latte and Americano consistently led in sales volume*.  
-- **Peak Sales Months**: e.g., *February and October showed the highest revenue*.  
-- **Day-of-Week Trends**: e.g., *Mondays and Fridays generated strong sales performance*.  
-- **Time-of-Day Patterns**: e.g., *Afternoons had the most transactions, while evenings brought in higher revenue*.  
-- **Customer Behavior**: e.g., *Regular purchases of Cappuccino suggest strong customer loyalty*.  
+- **Top-Selling Products**: Latte, Americano with Milk, Americano, and Cappuccino were the most popular coffee products.  
+- **Peak Sales Months**: February, March, and October recorded the highest sales and transactions.
+- **Day-of-Week Trends**: Sales and transactions were busiest on Mondays, Tuesdays, and Fridays.  
+- **Time-of-Day Patterns**: Nights generated the highest sales revenue, while afternoons saw the most transactions.  
+- **Customer Behavior**: Most customers paid within the average price range, while only a few spent more on add-ons and extras.  
 
 ---
 
