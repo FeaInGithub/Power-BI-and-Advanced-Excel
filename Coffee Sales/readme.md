@@ -15,4 +15,7 @@ This repository contains my **Coffee Sales Project**, where I showcased both my 
 - **Microsoft Excel (Advanced)**  
 - **Microsoft Power BI**  
 
+## Source
+- [Kaggle: Coffee Sales Dataset](https://www.kaggle.com/datasets/navjotkaushal/coffee-sales-dataset)
+
 ✨ This project demonstrates my ability to analyze data, create meaningful reports, and design dashboards that support business decisions.  
