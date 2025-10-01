@@ -9,7 +9,7 @@ This repository contains my **Coffee Sales Project**, where I showcased both my 
 
 - **Power BI**   
 - Interactive dashboards & storytelling
-- DAX measures and calculated columns
+- DAX measures
 
 ## 🛠 Tools Used  
 - **Microsoft Excel (Advanced)**  
