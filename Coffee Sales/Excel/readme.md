@@ -4,7 +4,7 @@ This repository contains **Coffee Sales data**, where I applied **Advanced Excel
 ---
 
 ## 🖼️ Preview
-![Coffee Sales Dashboard](https://scontent.fmnl4-7.fna.fbcdn.net/v/t1.15752-9/551577159_1231915248971719_5689836131129207027_n.png?_nc_cat=108&ccb=1-7&_nc_sid=9f807c&_nc_ohc=leJhov1gZhIQ7kNvwGXyoFA&_nc_oc=AdneoRe1SvA3z71sSWJqFUUhgh4GQt-5fhRifR4dav_WWGOahMuJ5qKLAqnnclZjcuodqLQHBhGWAjiF7_-kHOEw&_nc_zt=23&_nc_ht=scontent.fmnl4-7.fna&oh=03_Q7cD3QGqbpK6JAfRSPZmj1RWeNFh1zEbwvhuXtQuJ9esm6PmJw&oe=6904526D) 
+![Coffee Sales Dashboard](https://scontent.fmnl4-4.fna.fbcdn.net/v/t1.15752-9/552180931_1508181146972400_1565605267201463668_n.png?_nc_cat=102&ccb=1-7&_nc_sid=9f807c&_nc_ohc=mG4orGW9zVMQ7kNvwEXBxwf&_nc_oc=AdkXL2QKgSG4cA33tGjC0bjXHaVtmkJEDGhJNFLV1Vomky6_st3txmffiJ84wQR3BdQcID0hybEbLzjZLf5saWR9&_nc_zt=23&_nc_ht=scontent.fmnl4-4.fna&oh=03_Q7cD3QFOJBh0pQL6caE6Usdv4G3DZaYt3GbQW3KKRWlT0mXjZw&oe=69042BD7) 
 
 ---
 
