@@ -12,4 +12,4 @@ It is structured to showcase both technical skills and business-oriented insight
 
 ### Power BI
 - Interactive dashboards & storytelling
-- DAX measures and calculated columns
+- DAX measures
